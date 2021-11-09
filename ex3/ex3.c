@@ -15,7 +15,6 @@ void main() {
     char input[50];
     
     puts("Write something");
-    gets(input, 40);
-    printf(input);
-    
+    gets(input);
+
 }
